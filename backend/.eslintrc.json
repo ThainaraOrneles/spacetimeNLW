@@ -1,5 +1,8 @@
 {
   "extends": [
     "@rocketseat/eslint-configj/node"
-  ]
+  ],
+  "rules":{
+    "camelcase" : "off"
+  }
 }
